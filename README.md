@@ -1,7 +1,5 @@
 # Django Chatbot Application
 
-![Project Logo](path/to/your/logo.png)
-
 ## Overview
 
 The Django Chatbot Application is a simple web-based chatbot that utilizes the OpenAI API to provide responses to user input. Users can interact with the chatbot through a user-friendly interface.
